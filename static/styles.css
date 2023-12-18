@@ -1,0 +1,42 @@
+body {
+    background: #607274;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #FAEED1;
+}
+
+ul {
+    color: #DED0B6;
+    font-weight: 400;
+    font-size: larger;
+}
+
+a {
+    color: #DED0B6;
+    font-weight: 400;
+    font-size: larger;
+}
+
+form {
+    color: #DED0B6;
+    font-weight: 400;
+    font-size: larger;
+}
+
+footer{
+    color: #DED0B6;
+    padding: 10px;
+    text-align: right;
+    position: fixed; /* Fixed position so it stays in place while scrolling */
+    bottom: 0;
+    right: 0;
+    left: auto;
+}
+
+p{
+    color: #DED0B6;
+    font-weight: 400;
+    font-size: larger;
+}
